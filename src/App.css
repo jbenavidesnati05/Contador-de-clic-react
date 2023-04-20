@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html,body{
+    background-color:rgb(36, 48, 90);
+}
+
+.App{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    padding-top: 45px;
+
+}
+.frecodecamp-logo-contenedor{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
